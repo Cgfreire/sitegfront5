@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      Entre em contato <a href="mailto:rfdouro@gmail.com">rfdouro@gmail.com</a>
+      Entre em contato <a href="mailto:rfdouro@gmail.com">caiogfreire@gmail.com</a>
     </p>
   </div>
 </template>
